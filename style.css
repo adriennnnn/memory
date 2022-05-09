@@ -56,3 +56,6 @@ h2{
     text-align: center;
     font-family: monospace ;
 }
+.section{
+    justify-content: center;
+}
